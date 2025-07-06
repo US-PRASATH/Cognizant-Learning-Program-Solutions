@@ -1,3 +1,8 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "1_Engineering concepts/Data structures and Algorithms/Exercise 7 - Financial Forecasting/FinancialForecasting/src",
+        "1_Engineering concepts/Data structures and Algorithms/Exercise 2 - E-commerce Platform Search Function/E-commercePlatformSearchFunction/src",
+        "3_Spring Data JPA with Spring Boot, Hibernate/Spring Data JPA - Quick Example/orm-learn/src/main/java/com/cognizant/orm_learn"
+    ]
 }

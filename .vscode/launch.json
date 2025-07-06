@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DifferenceApplication",
+            "request": "launch",
+            "mainClass": "com.cognizant.difference.DifferenceApplication",
+            "projectName": "com.cognizant-difference"
+        },
+        {
+            "type": "java",
+            "name": "DifferenceApplication",
+            "request": "launch",
+            "mainClass": "DifferenceApplication",
+            "projectName": "Cognizant-Learning-Program-Solutions_1d8b6308"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-OrmLearnApplication<com.cognizant-orm-learn>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cognizant.ormlearn.OrmLearnApplication",
+            "projectName": "com.cognizant-orm-learn",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
