@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpringLearnApplication",
+            "request": "launch",
+            "mainClass": "com.cognizant.springlearn.SpringLearnApplication",
+            "projectName": "Cognizant-Learning-Program-Solutions_1d8b6308"
+        },
+        {
+            "type": "java",
+            "name": "SpringLearnApplication",
+            "request": "launch",
+            "mainClass": "SpringLearnApplication",
+            "projectName": "Cognizant-Learning-Program-Solutions_1d8b6308"
+        },
+        {
+            "type": "java",
             "name": "DifferenceApplication",
             "request": "launch",
             "mainClass": "com.cognizant.difference.DifferenceApplication",
