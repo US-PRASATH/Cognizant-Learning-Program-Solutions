@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { CohortsData} from './Cohort'
-import CohortDetails from './Components/CohortDetails'; 
+import CohortDetails from './CohortDetails'; 
 
 function App() {
  
